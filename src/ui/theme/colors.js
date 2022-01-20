@@ -1,0 +1,16 @@
+export default colors = {
+	primaryColor: '#0BA7DA',
+	background: '#F8F8F8',
+	statusBar: '#0079A8',
+	bodyTitle: '#212121',
+	bodyText: '#595959',
+	cardIcon: '#595959',
+	profileIcon: '#0BA7DA',
+	button: '#FFFFFF',
+	bodyTextAlt: '#A9A9A9',
+	border: '#F2F2F2',
+	statusSymbol: '#1AAE59',
+	white: '#FFFFFF',
+	shadow: '#111111',
+	transparent: 'transparent',
+}
